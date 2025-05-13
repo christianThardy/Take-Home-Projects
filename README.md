@@ -1,4 +1,4 @@
-# Take-Home Projects
+# Take Home Projects
 
 A curated collection of data science take-home project examples completed for roles in the **eCommerce** and **recruiting** industries. These projects showcase skills in predictive modeling, forecasting, recommendation systems, and business analytics.
 
