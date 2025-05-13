@@ -12,5 +12,5 @@ A curated collection of data science take-home project examples completed for ro
   Forecasted gift card usage patterns and analyzed seasonal trends to inform marketing and revenue strategy.
 
 ### 2. Recruiting
-- **Candidate Matching & Job Intelligence**  
+- **Candidate Skill Matching & Job Intelligence**  
   Restructured extremely noisy dataset, and built NER model to identify candidates job skills.
