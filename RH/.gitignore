@@ -1,0 +1,20 @@
+# Ignore virtual envs
+.venv/
+env/
+venv/
+
+# Ignore pyenv version files
+.python-version
+
+# Ignore Jupyter autosaves
+.ipynb_checkpoints/
+
+# Ignore Python build artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
